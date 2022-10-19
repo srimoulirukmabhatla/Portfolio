@@ -16,11 +16,11 @@
 
 In short stakeholders like Sales Representative, Sales Manager, Head of Sales/Customer require an Sales Insights Dashboard to take data driven decisions.
 
-![Flow Chart](https://github.com/srimoulirukmabhatla/Sales_Analytics/blob/main/Project_FlowChart.JPG)
+![Flow Chart](/Images/Project_FlowChart.JPG)
 ### Data Model
-![Data Model](https://github.com/srimoulirukmabhatla/Sales_Analytics/blob/main/DataModel.JPG)   
+![Data Model](/Images/DataModel.JPG)   
 ---   
 ## Dashboard
-![Overview](Images/Sales_Overview.JPG)
-![Customer Details](Images/Customer_Details.JPG)
-![Product Details](Images/Product%20Details.JPG)
+![Overview](/Images/Sales_Overview.JPG)
+![Customer Details](/Images/Customer_Details.JPG)
+![Product Details](/Images/Product%20Details.JPG)
