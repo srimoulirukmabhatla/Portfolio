@@ -18,7 +18,9 @@ In short stakeholders like Sales Representative, Sales Manager, Head of Sales/Cu
 
 ![Flow Chart](https://github.com/srimoulirukmabhatla/Sales_Analytics/blob/main/Project_FlowChart.JPG)
 ### Data Model
-![Data Model](https://github.com/srimoulirukmabhatla/Sales_Analytics/blob/main/DataModel.JPG)
+![Data Model](https://github.com/srimoulirukmabhatla/Sales_Analytics/blob/main/DataModel.JPG)   
+---   
+## Dashboard
 ![Overview](https://github.com/srimoulirukmabhatla/Sales_Analytics/blob/main/Sales_Overview.JPG)
 ![Customer Details](https://github.com/srimoulirukmabhatla/Sales_Analytics/blob/main/Customer_Details.JPG)
 ![Product Details](https://github.com/srimoulirukmabhatla/Sales_Analytics/blob/main/Product%20Details.JPG)
